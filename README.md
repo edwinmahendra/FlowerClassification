@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Edwin Mahendra
+# Flower Classification - Edwin Mahendra
 
 **Find Me:**
 <br>
@@ -8,7 +8,7 @@
 
 <hr>
 
-Proyek ini disusun sebagai bagian dari tugas pada *course* Dicoding - Machine Learning Terapan. Dalam proyek ini, sebuah model *Machine Learning* akan dibangun dengan tujuan **mengklasifikasikan lima jenis bunga**, yaitu: **lily, lotus, orchid, sunflower, dan tulip.**
+Dalam proyek ini, sebuah model *Machine Learning* akan dibangun dengan tujuan **mengklasifikasikan lima jenis bunga**, yaitu: **lily, lotus, orchid, sunflower, dan tulip.**
 
 ## Domain Proyek
 
